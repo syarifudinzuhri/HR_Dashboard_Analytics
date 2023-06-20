@@ -20,3 +20,11 @@ Memperbaiki lingkungan/budaya kerja setelah diketahui bahwa tingkat absensi kary
 Menerapkan fleksibilitas kerja setelah mengetahui kepuasan kerja karyawan menurun
 </li>
 </ol>
+<br>
+Selain itu, tidak kalah pentingnya adalah “Visualisasi yang Efektif” yang dimana untuk mencapai hal tersebut perlu untuk memahami konteks permsalahan, pemilihan tipe visualisasi yang tepat, decluttering, mengarahkan perhatian pembaca, berpikir seperti designer dan menambahkan narasi. Sehingga untuk menghasilkan Data Visualisasi yang Efektif akan dilakukan dengan metode sebagai berikut :<br>
+<ol>
+  <li>Memahami Audients</li>
+  <li>Menentukan Rumusan Masalah</li>
+  <li>Melakukan Brainstorming dan Membuat Dokumen Rencana Visualisasi</li>
+</ol>
+<br>
